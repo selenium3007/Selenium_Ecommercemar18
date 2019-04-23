@@ -1,0 +1,1936 @@
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> link text: Sign in]
+Entered email id:qatest779@gmail.comby using object[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (4eba820b5251fd2c574bf6567bda2fb5)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> link text: Sign in]
+Entered email id:qatest6698@gmail.comby using object[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (7ba0b04cc0285474cc3627919348d8b1)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> link text: Sign in]
+Entered email id:qatest6518@gmail.comby using object[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (446254a35732674bd04810654ac54463)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> link text: Sign in]
+Entered email id:qatest6463@gmail.comby using object[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (f47894c2920638e8207eae39b0aac71f)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> link text: Sign in]
+Entered email id:qatest9633@gmail.comby using object[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (8ac611c3fba783e500e54fe58a435068)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> link text: Sign in]
+Entered email id:qatest954@gmail.comby using object[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (4909996e39729805dd564992929f83be)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (efa9df1f0353709064ce705b26509083)] -> link text: Sign in]
+Entered email id:qatest4814@gmail.comby using object[[ChromeDriver: chrome on XP (efa9df1f0353709064ce705b26509083)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (0999dc9d6ba9adf62cbaa4ee22e5f3a2)] -> link text: Sign in]
+Entered email id:qatest327@gmail.comby using object[[ChromeDriver: chrome on XP (0999dc9d6ba9adf62cbaa4ee22e5f3a2)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> link text: Sign in]
+Entered email id:qatest6441@gmail.comby using object[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> link text: Sign in]
+Entered email id:qatest938@gmail.comby using object[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> link text: Sign in]
+Entered email id:qatest1395@gmail.comby using object[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> link text: Sign in]
+Entered email id:qatest7778@gmail.comby using object[[ChromeDriver: chrome on XP (5d11da12e58a654826c921e91f60b45c)] -> id: email_create]
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> link text: Sign in]
+Entered email id:qatest9736@gmail.comby using object[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (692760fe5e8bf5eeb602b9c61ce1e1b2)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> link text: Sign in]
+Entered email id:qatest7386@gmail.comby using object[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (13fdb9e0035bf083790d595cddf6de3b)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> link text: Sign in]
+Entered email id:qatest7923@gmail.comby using object[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (00277d2c013439829d4e8102f52f7dba)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> link text: Sign in]
+Entered email id:qatest3841@gmail.comby using object[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (72b8bb4709602147e8d35e8f47089fed)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******
+******Starting TC001_CustomerRegistration******
+Clicked on SignIN button with object:[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> link text: Sign in]
+Entered email id:qatest7829@gmail.comby using object[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: email_create]
+Clicked on create an account by using object:[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: SubmitCreate]
+Verify customer info page by using object:[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> xpath: //h1[text()='Create an account']]
+Clicking on Mr Radio button by using object: [[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: id_gender1]
+Entering first name by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: customer_firstname]
+Entering last name by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: customer_lastname]
+Entering password by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: passwd]
+Selected a day by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: days]
+Selected a month by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: months]
+Selected a year by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: years]
+Entering address by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: address1]
+Entering city by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: city]
+Selected a state by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: id_state]
+Entering zipcode by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: postcode]
+Selected a country by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: id_country]
+Entering mobile number by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: phone_mobile]
+Entering aliasing Address by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> id: alias]
+Clicking on Register :Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object :[[ChromeDriver: chrome on XP (42275b748d5546f06c01f89493713485)] -> xpath: //h1[text()='My account']]
+******End of TC001_CustomerRegistration******

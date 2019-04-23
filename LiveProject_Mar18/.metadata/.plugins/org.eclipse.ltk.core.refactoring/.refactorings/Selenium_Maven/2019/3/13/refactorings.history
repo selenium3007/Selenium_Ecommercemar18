@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.durgasoft.testNG.NOrmalScreenshot&apos; to &apos;Screenshot&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Maven&apos;&#x0D;&#x0A;- Original element: &apos;com.durgasoft.testNG.NOrmalScreenshot&apos;&#x0D;&#x0A;- Renamed element: &apos;com.durgasoft.testNG.Screenshot&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NOrmalScreenshot&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;com.durgasoft.testNG{NOrmalScreenshot.java[NOrmalScreenshot" matchStrategy="1" name="Screenshot" qualified="false" references="true" similarDeclarations="false" stamp="1553838624216" textual="false" version="1.0"/>
+</session>

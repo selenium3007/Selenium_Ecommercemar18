@@ -1,0 +1,89 @@
+package com.durgasoft.ecommerce.pageui;
+
+import static org.testng.Assert.assertEquals;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import com.durgasoft.ecommerce.basepage.BasePage;
+
+public class CreateLoginAccount extends BasePage{
+	
+	public static final Logger log=Logger.getLogger(CreateLoginAccount.class.getName());
+	
+	@FindBy(linkText = "Sign in") WebElement linkSignIn;
+	@FindBy(id = "email_create") WebElement txtEmailID;
+	@FindBy(id = "SubmitCreate") WebElement btnCreateAnAccount;
+	@FindBy(xpath="//h1[text()='Create an account']") WebElement txtCreateAnAccount;
+	@FindBy(id="id_gender1") WebElement radioMr;
+	@FindBy(id="customer_firstname")WebElement txtFirstName;
+	@FindBy(id="customer_lastname")WebElement txtLastName;
+	@FindBy(id="passwd")WebElement txtPassword;
+	@FindBy(id="days")WebElement dropDownDays;
+	@FindBy(id="months")WebElement dropDownMonths;
+	@FindBy(id="years")WebElement dropDownYears;
+	@FindBy(id="address1")WebElement txtAddress1;
+	@FindBy(id="city")WebElement txtCity;
+	@FindBy(id="id_state")WebElement dropDownState;
+	@FindBy(id="postcode")WebElement txtZipCode;
+	@FindBy(id="id_country")WebElement dropDownCountry;
+	@FindBy(id="phone_mobile")WebElement txtMobile;
+	@FindBy(id="alias")WebElement txtAddress2;
+	@FindBy(id="submitAccount")WebElement btnRegister;
+	@FindBy(xpath="//h1[text()='My account']")WebElement txtMyAccount;
+	
+	public CreateLoginAccount(WebDriver driver) {
+		PageFactory.initElements(driver, this);
+	}
+
+	public void createAccount() throws Exception{
+		linkSignIn.click();
+		log.info("Clicked on SignIN button with object:"+linkSignIn.toString());
+		txtEmailID.sendKeys
+		(getData("firstName")+getData("lastName")+randomNumber()+getData("domainName"));
+		log.info("Entered email id:"+txtEmailID.getAttribute("value")
+											+"by using object"+txtEmailID.toString());
+		btnCreateAnAccount.click();
+		log.info("Clicked on create an account by using object:"+btnCreateAnAccount.toString());
+		Thread.sleep(5000);
+		assertEquals(txtCreateAnAccount.getText(), "CREATE AN ACCOUNT");
+		log.info("Verify customer info page by using object:"+txtCreateAnAccount.toString());
+		radioMr.click();
+		log.info("Clicking on Mr Radio button by using object: "+radioMr.toString());
+		txtFirstName.sendKeys("Mahesh");
+		log.info("Entering first name by using object :" + txtFirstName.toString());
+		txtLastName.sendKeys("D");
+		log.info("Entering last name by using object :" + txtLastName.toString());
+		txtPassword.sendKeys("abc@1234");
+		log.info("Entering password by using object :" + txtPassword.toString());
+		selectOption(dropDownDays,3);
+		log.info("Selected a day by using object :" + dropDownDays.toString());
+		selectOption(dropDownMonths, 7);
+		log.info("Selected a month by using object :" + dropDownMonths.toString());
+		selectOption(dropDownYears, 6);
+		log.info("Selected a year by using object :" + dropDownYears.toString());
+		txtAddress1.sendKeys(getData("address1"));
+		log.info("Entering address by using object :" + txtAddress1.toString());
+		txtCity.sendKeys(getData("city"));
+		log.info("Entering city by using object :" + txtCity.toString());
+		selectOption(dropDownState, 3);
+		log.info("Selected a state by using object :" + dropDownState.toString());
+		txtZipCode.sendKeys("12345");
+		log.info("Entering zipcode by using object :" + txtZipCode.toString());
+		selectOption(dropDownCountry, 1);
+		log.info("Selected a country by using object :" + dropDownCountry.toString());
+		txtMobile.sendKeys("9876543210");
+		log.info("Entering mobile number by using object :" + txtMobile.toString());
+		txtAddress2.sendKeys("Mumbai");
+		log.info("Entering aliasing Address by using object :" + txtAddress2.toString());
+		btnRegister.click();
+		log.info("Clicking on Register :" + btnRegister.toString());
+		Thread.sleep(5000);
+		assertEquals(txtMyAccount.getText(), "MY ACCOUNT");
+		log.info("Verified My account page by using object :" + txtMyAccount.toString());
+		
+	}
+	
+}
